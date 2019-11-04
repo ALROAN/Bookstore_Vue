@@ -1,0 +1,19 @@
+{
+  "name": "bookstore_vue",
+  "version": "1.0.0",
+  "description": "Bookstore with Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALROAN/Bookstore_Vue.git"
+  },
+  "author": "Albert Royo Andreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALROAN/Bookstore_Vue/issues"
+  },
+  "homepage": "https://github.com/ALROAN/Bookstore_Vue#readme"
+}
